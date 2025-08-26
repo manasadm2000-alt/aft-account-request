@@ -45,7 +45,7 @@ module "account_request_02" {
     ManagedOrganizationalUnit = "Infrastructure" 
     SSOUserEmail              = "manasmd+tickettesting2@amazon.com"
     SSOUserFirstName          = "Admin"
-    SSOUserLastName           = "UserName1122"
+    SSOUserLastName           = "UserName112dd2"
   }
 
   account_tags = {
